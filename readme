@@ -1,0 +1,48 @@
+
+README
+
+
+2 basic AI machine learning method:K-Nearest Neighbour and Decision tree learning method
+
+
+
+To execute the code: 
+First of all, use terminal to get into the source directory src
+Then compile all java files with command: javac *.java
+
+------------------------------------
+Part 1 : K-Nearest Neighbour
+------------------------------------
+Make sure that we are in the src directory,
+To run part 1 , enter the command with the format below:
+
+java Main part1 Training_FilePath Test_FilePath
+
+Example:
+java Main part1 /Users/patrickzhang/Desktop/COMP307/COMP307A1/ass1_data/part1/wine-training /Users/patrickzhang/Desktop/COMP307/COMP307A1/ass1_data/part1/wine-test
+
+Then the system will require a k value,  like :"Enter the 'K' Value: "
+
+Now all we should do is to enter the K value
+Then the system will run and print the result
+
+------------------------------------
+Part 2: Decision tree learning method
+------------------------------------
+Make sure that we are in the src directory,
+To run part 2 , enter the command with the format below:
+
+java Main part2 Training_FilePath Test_FilePath
+
+Example:
+java Main part2 /Users/patrickzhang/Desktop/COMP307/COMP307A1/ass1_data/part2//hepatitis-training /Users/patrickzhang/Desktop/COMP307/COMP307A1/ass1_data/part2/hepatitis-test
+
+Then the system will run , print out the decision tree formed and accuracy
+
+Then the system will ask if we want to apply 10-fold cross-validation, like: "Do you want to apply 10-fold cross-validation? (y/n)"
+If we want to apply apply 10-fold cross-validation, we should enter y
+then the system will require a directory path,
+we should enter the directory path of the directory that contains the 10 test files provided
+example:/Users/patrickzhang/Desktop/COMP307/COMP307A1/ass1_data/part2/
+Then the 10-fold cross-validation will run and the result will be printed
+

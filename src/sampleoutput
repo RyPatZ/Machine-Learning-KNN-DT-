@@ -1,0 +1,559 @@
+------------------------------------
+PART1
+------------------------------------
+
+Enter the 'K' Value: 	3
+k =3
+-----------------------------------------------
+Number 1test wine
+Predicted class:3.0
+Actual class:3.0
+-----------------------------------------------
+Number 2test wine
+Predicted class:3.0
+Actual class:3.0
+-----------------------------------------------
+Number 3test wine
+Predicted class:3.0
+Actual class:3.0
+-----------------------------------------------
+Number 4test wine
+Predicted class:1.0
+Actual class:1.0
+-----------------------------------------------
+Number 5test wine
+Predicted class:1.0
+Actual class:1.0
+-----------------------------------------------
+Number 6test wine
+Predicted class:1.0
+Actual class:1.0
+-----------------------------------------------
+Number 7test wine
+Predicted class:2.0
+Actual class:2.0
+-----------------------------------------------
+Number 8test wine
+Predicted class:2.0
+Actual class:2.0
+-----------------------------------------------
+Number 9test wine
+Predicted class:1.0
+Actual class:1.0
+-----------------------------------------------
+Number 10test wine
+Predicted class:2.0
+Actual class:2.0
+-----------------------------------------------
+Number 11test wine
+Predicted class:3.0
+Actual class:2.0
+-----------------------------------------------
+Number 12test wine
+Predicted class:3.0
+Actual class:2.0
+-----------------------------------------------
+Number 13test wine
+Predicted class:3.0
+Actual class:3.0
+-----------------------------------------------
+Number 14test wine
+Predicted class:3.0
+Actual class:3.0
+-----------------------------------------------
+Number 15test wine
+Predicted class:1.0
+Actual class:1.0
+-----------------------------------------------
+Number 16test wine
+Predicted class:2.0
+Actual class:2.0
+-----------------------------------------------
+Number 17test wine
+Predicted class:3.0
+Actual class:3.0
+-----------------------------------------------
+Number 18test wine
+Predicted class:3.0
+Actual class:3.0
+-----------------------------------------------
+Number 19test wine
+Predicted class:1.0
+Actual class:1.0
+-----------------------------------------------
+Number 20test wine
+Predicted class:1.0
+Actual class:1.0
+-----------------------------------------------
+Number 21test wine
+Predicted class:3.0
+Actual class:3.0
+-----------------------------------------------
+Number 22test wine
+Predicted class:2.0
+Actual class:2.0
+-----------------------------------------------
+Number 23test wine
+Predicted class:2.0
+Actual class:2.0
+-----------------------------------------------
+Number 24test wine
+Predicted class:3.0
+Actual class:3.0
+-----------------------------------------------
+Number 25test wine
+Predicted class:2.0
+Actual class:2.0
+-----------------------------------------------
+Number 26test wine
+Predicted class:3.0
+Actual class:2.0
+-----------------------------------------------
+Number 27test wine
+Predicted class:2.0
+Actual class:2.0
+-----------------------------------------------
+Number 28test wine
+Predicted class:3.0
+Actual class:3.0
+-----------------------------------------------
+Number 29test wine
+Predicted class:2.0
+Actual class:2.0
+-----------------------------------------------
+Number 30test wine
+Predicted class:1.0
+Actual class:1.0
+-----------------------------------------------
+Number 31test wine
+Predicted class:2.0
+Actual class:2.0
+-----------------------------------------------
+Number 32test wine
+Predicted class:1.0
+Actual class:1.0
+-----------------------------------------------
+Number 33test wine
+Predicted class:2.0
+Actual class:2.0
+-----------------------------------------------
+Number 34test wine
+Predicted class:1.0
+Actual class:1.0
+-----------------------------------------------
+Number 35test wine
+Predicted class:2.0
+Actual class:2.0
+-----------------------------------------------
+Number 36test wine
+Predicted class:2.0
+Actual class:2.0
+-----------------------------------------------
+Number 37test wine
+Predicted class:2.0
+Actual class:2.0
+-----------------------------------------------
+Number 38test wine
+Predicted class:2.0
+Actual class:2.0
+-----------------------------------------------
+Number 39test wine
+Predicted class:2.0
+Actual class:2.0
+-----------------------------------------------
+Number 40test wine
+Predicted class:1.0
+Actual class:1.0
+-----------------------------------------------
+Number 41test wine
+Predicted class:2.0
+Actual class:2.0
+-----------------------------------------------
+Number 42test wine
+Predicted class:2.0
+Actual class:2.0
+-----------------------------------------------
+Number 43test wine
+Predicted class:3.0
+Actual class:3.0
+-----------------------------------------------
+Number 44test wine
+Predicted class:1.0
+Actual class:1.0
+-----------------------------------------------
+Number 45test wine
+Predicted class:2.0
+Actual class:2.0
+-----------------------------------------------
+Number 46test wine
+Predicted class:1.0
+Actual class:1.0
+-----------------------------------------------
+Number 47test wine
+Predicted class:3.0
+Actual class:3.0
+-----------------------------------------------
+Number 48test wine
+Predicted class:2.0
+Actual class:2.0
+-----------------------------------------------
+Number 49test wine
+Predicted class:2.0
+Actual class:2.0
+-----------------------------------------------
+Number 50test wine
+Predicted class:1.0
+Actual class:1.0
+-----------------------------------------------
+Number 51test wine
+Predicted class:3.0
+Actual class:3.0
+-----------------------------------------------
+Number 52test wine
+Predicted class:1.0
+Actual class:1.0
+-----------------------------------------------
+Number 53test wine
+Predicted class:1.0
+Actual class:1.0
+-----------------------------------------------
+Number 54test wine
+Predicted class:3.0
+Actual class:3.0
+-----------------------------------------------
+Number 55test wine
+Predicted class:3.0
+Actual class:3.0
+-----------------------------------------------
+Number 56test wine
+Predicted class:1.0
+Actual class:1.0
+-----------------------------------------------
+Number 57test wine
+Predicted class:1.0
+Actual class:1.0
+-----------------------------------------------
+Number 58test wine
+Predicted class:3.0
+Actual class:3.0
+-----------------------------------------------
+Number 59test wine
+Predicted class:1.0
+Actual class:1.0
+-----------------------------------------------
+Number 60test wine
+Predicted class:3.0
+Actual class:3.0
+-----------------------------------------------
+Number 61test wine
+Predicted class:3.0
+Actual class:3.0
+-----------------------------------------------
+Number 62test wine
+Predicted class:1.0
+Actual class:2.0
+-----------------------------------------------
+Number 63test wine
+Predicted class:2.0
+Actual class:2.0
+-----------------------------------------------
+Number 64test wine
+Predicted class:3.0
+Actual class:3.0
+-----------------------------------------------
+Number 65test wine
+Predicted class:2.0
+Actual class:2.0
+-----------------------------------------------
+Number 66test wine
+Predicted class:3.0
+Actual class:3.0
+-----------------------------------------------
+Number 67test wine
+Predicted class:3.0
+Actual class:3.0
+-----------------------------------------------
+Number 68test wine
+Predicted class:1.0
+Actual class:1.0
+-----------------------------------------------
+Number 69test wine
+Predicted class:1.0
+Actual class:1.0
+-----------------------------------------------
+Number 70test wine
+Predicted class:2.0
+Actual class:2.0
+-----------------------------------------------
+Number 71test wine
+Predicted class:2.0
+Actual class:2.0
+-----------------------------------------------
+Number 72test wine
+Predicted class:3.0
+Actual class:3.0
+-----------------------------------------------
+Number 73test wine
+Predicted class:2.0
+Actual class:2.0
+-----------------------------------------------
+Number 74test wine
+Predicted class:2.0
+Actual class:2.0
+-----------------------------------------------
+Number 75test wine
+Predicted class:1.0
+Actual class:1.0
+-----------------------------------------------
+Number 76test wine
+Predicted class:1.0
+Actual class:1.0
+-----------------------------------------------
+Number 77test wine
+Predicted class:1.0
+Actual class:1.0
+-----------------------------------------------
+Number 78test wine
+Predicted class:3.0
+Actual class:3.0
+-----------------------------------------------
+Number 79test wine
+Predicted class:1.0
+Actual class:1.0
+-----------------------------------------------
+Number 80test wine
+Predicted class:1.0
+Actual class:1.0
+-----------------------------------------------
+Number 81test wine
+Predicted class:2.0
+Actual class:2.0
+-----------------------------------------------
+Number 82test wine
+Predicted class:2.0
+Actual class:2.0
+-----------------------------------------------
+Number 83test wine
+Predicted class:3.0
+Actual class:3.0
+-----------------------------------------------
+Number 84test wine
+Predicted class:1.0
+Actual class:1.0
+-----------------------------------------------
+Number 85test wine
+Predicted class:2.0
+Actual class:2.0
+-----------------------------------------------
+Number 86test wine
+Predicted class:1.0
+Actual class:1.0
+-----------------------------------------------
+Number 87test wine
+Predicted class:1.0
+Actual class:1.0
+-----------------------------------------------
+Number 88test wine
+Predicted class:2.0
+Actual class:2.0
+-----------------------------------------------
+Number 89test wine
+Predicted class:1.0
+Actual class:1.0
+-----------------------------------------------
+-----------------------------------------------
+-----------------------------------------------
+K value = 3
+Correct classified instances: 85.0
+Total unseen instances: 89.0
+Accuracy: 95.51%
+------------------------------------------------
+
+------------------------------------
+PART2
+------------------------------------
+-----------------------------------------------
+The Decision Tree :
+-----------------------------------------------
+-----------------------------------------------
+-----------------------------------------------
+ASCITES = True:
+	SPIDERS = True:
+		VARICES = True:
+			STEROID = True:
+				Class live, prob=1.00
+			STEROID = False:
+				SPLEENPALPABLE = True:
+					FIRMLIVER = True:
+						Class live, prob=1.00
+					FIRMLIVER = False:
+						BIGLIVER = True:
+							SGOT = True:
+								Class live, prob=1.00
+							SGOT = False:
+								FEMALE = True:
+									Class live, prob=1.00
+								FEMALE = False:
+									ANOREXIA = True:
+										Class die, prob=1.00
+									ANOREXIA = False:
+										Class live, prob=1.00
+						BIGLIVER = False:
+							Class live, prob=1.00
+				SPLEENPALPABLE = False:
+					ANOREXIA = True:
+						Class live, prob=1.00
+					ANOREXIA = False:
+						Class die, prob=1.00
+		VARICES = False:
+			Class die, prob=1.00
+	SPIDERS = False:
+		FEMALE = True:
+			Class live, prob=1.00
+		FEMALE = False:
+			BILIRUBIN = True:
+				FIRMLIVER = True:
+					ANOREXIA = True:
+						Class die, prob=1.00
+					ANOREXIA = False:
+						Class live, prob=1.00
+				FIRMLIVER = False:
+					VARICES = True:
+						SGOT = True:
+							BIGLIVER = True:
+								Class live, prob=1.00
+							BIGLIVER = False:
+								Class die, prob=1.00
+						SGOT = False:
+							Class live, prob=1.00
+					VARICES = False:
+						Class live, prob=1.00
+			BILIRUBIN = False:
+				STEROID = True:
+					SPLEENPALPABLE = True:
+						VARICES = True:
+							SGOT = True:
+								Class live, prob=0.81
+							SGOT = False:
+								AGE = True:
+									Class live, prob=1.00
+								AGE = False:
+									ANTIVIRALS = True:
+										Class die, prob=1.00
+									ANTIVIRALS = False:
+										Class live, prob=1.00
+						VARICES = False:
+							Class live, prob=0.81
+					SPLEENPALPABLE = False:
+						Class live, prob=0.81
+				STEROID = False:
+					Class live, prob=1.00
+ASCITES = False:
+	BIGLIVER = True:
+		VARICES = True:
+			FIRMLIVER = True:
+				STEROID = True:
+					Class die, prob=1.00
+				STEROID = False:
+					BILIRUBIN = True:
+						Class live, prob=1.00
+					BILIRUBIN = False:
+						Class die, prob=1.00
+			FIRMLIVER = False:
+				Class live, prob=1.00
+		VARICES = False:
+			Class die, prob=1.00
+	BIGLIVER = False:
+		Class live, prob=1.00
+-----------------------------------------------
+-----------------------------------------------
+-----------------------------------------------
+-----------------------------------------------
+-----------------------------------------------
+-----------------------------------------------
+Decision Tree Classifier
+Correct predicted instances: 20.0
+Total unseen instances: 25.0
+Accuracy: 80.00%
+------------------------------------------------
+20.0 out of 25.0
+------------------------------------------------
+Baseline classifier: live
+Correct predicted instances(baseline): 20.0  Total unseen instances: 50.0
+Accuracy(Baseline): 40.00%
+------------------------------------------------
+
+Do you want to apply 10-fold cross-validation? (y/n)y
+Enter test directory path/Users/patrickzhang/Desktop/COMP307/COMP307A1/ass1_data/part2/
+-----------------------------------------------
+Average accuracy Of ten fold cross validation = 78.14%
+-----------------------------------------------
+-----------------------------------------------
+
+------------------------------------
+PART3
+------------------------------------
+
+-----------------------------------------------
+-----------------------------------------------
+-----------------------------------------------
+Number of training iterations to convergence = 150
+Number of correct classification = 96
+Accuracy= 0.96%
+ The number of images that classified wrongly = 4
+-----------------------------------------------
+Ramdom feaure created:
+Feature{rows=null, cols=null, sgn=null}
+Feature{rows=[6, 6, 4], cols=[6, 5, 0], sgn=[false, true, true]}
+Feature{rows=[2, 0, 7], cols=[1, 9, 5], sgn=[true, false, true]}
+Feature{rows=[3, 4, 2], cols=[8, 3, 9], sgn=[false, false, true]}
+Feature{rows=[7, 4, 7], cols=[2, 2, 8], sgn=[true, false, false]}
+Feature{rows=[2, 1, 2], cols=[7, 7, 7], sgn=[true, true, false]}
+Feature{rows=[2, 5, 2], cols=[0, 3, 4], sgn=[true, false, false]}
+Feature{rows=[1, 8, 5], cols=[3, 9, 5], sgn=[false, true, false]}
+Feature{rows=[9, 7, 5], cols=[5, 6, 0], sgn=[true, false, false]}
+Feature{rows=[6, 4, 1], cols=[5, 0, 3], sgn=[false, false, true]}
+Feature{rows=[3, 7, 7], cols=[4, 7, 7], sgn=[true, true, true]}
+Feature{rows=[3, 2, 9], cols=[2, 0, 4], sgn=[false, false, false]}
+Feature{rows=[3, 0, 8], cols=[3, 0, 9], sgn=[true, false, true]}
+Feature{rows=[0, 1, 3], cols=[8, 0, 7], sgn=[false, false, true]}
+Feature{rows=[4, 2, 0], cols=[4, 5, 0], sgn=[true, false, false]}
+Feature{rows=[7, 9, 6], cols=[8, 2, 6], sgn=[true, true, true]}
+Feature{rows=[8, 9, 5], cols=[9, 6, 6], sgn=[true, true, false]}
+Feature{rows=[5, 1, 0], cols=[0, 2, 5], sgn=[false, false, false]}
+Feature{rows=[5, 3, 9], cols=[4, 3, 7], sgn=[true, false, true]}
+Feature{rows=[7, 9, 5], cols=[3, 3, 5], sgn=[false, true, false]}
+Feature{rows=[9, 7, 5], cols=[2, 2, 9], sgn=[false, false, false]}
+Feature{rows=[4, 9, 8], cols=[6, 5, 0], sgn=[false, false, false]}
+Feature{rows=[3, 3, 0], cols=[4, 9, 5], sgn=[true, true, true]}
+Feature{rows=[5, 5, 3], cols=[2, 4, 2], sgn=[true, false, true]}
+Feature{rows=[1, 3, 6], cols=[6, 2, 4], sgn=[false, true, false]}
+Feature{rows=[3, 5, 2], cols=[1, 6, 5], sgn=[false, false, true]}
+Feature{rows=[6, 9, 7], cols=[8, 8, 7], sgn=[false, true, false]}
+Feature{rows=[1, 4, 3], cols=[8, 0, 1], sgn=[true, false, false]}
+Feature{rows=[1, 4, 0], cols=[8, 5, 0], sgn=[true, false, false]}
+Feature{rows=[6, 1, 2], cols=[9, 6, 4], sgn=[false, false, true]}
+Feature{rows=[7, 5, 3], cols=[3, 2, 8], sgn=[true, false, true]}
+Feature{rows=[7, 5, 9], cols=[2, 8, 9], sgn=[true, true, true]}
+Feature{rows=[8, 9, 1], cols=[2, 4, 9], sgn=[false, false, false]}
+Feature{rows=[7, 6, 0], cols=[5, 0, 3], sgn=[true, false, false]}
+Feature{rows=[7, 9, 8], cols=[9, 3, 1], sgn=[true, true, true]}
+Feature{rows=[2, 9, 0], cols=[4, 6, 1], sgn=[false, false, false]}
+Feature{rows=[9, 7, 8], cols=[9, 4, 3], sgn=[false, true, true]}
+Feature{rows=[6, 8, 8], cols=[8, 8, 7], sgn=[true, true, true]}
+Feature{rows=[2, 9, 9], cols=[9, 6, 9], sgn=[true, false, true]}
+Feature{rows=[5, 9, 9], cols=[9, 9, 9], sgn=[true, false, true]}
+Feature{rows=[1, 4, 4], cols=[8, 0, 5], sgn=[true, true, false]}
+Feature{rows=[2, 0, 7], cols=[2, 4, 3], sgn=[false, true, true]}
+Feature{rows=[0, 5, 2], cols=[0, 5, 4], sgn=[true, true, true]}
+Feature{rows=[1, 7, 8], cols=[8, 1, 6], sgn=[true, true, false]}
+Feature{rows=[6, 3, 8], cols=[7, 8, 1], sgn=[false, true, true]}
+Feature{rows=[6, 2, 7], cols=[2, 1, 1], sgn=[false, false, false]}
+Feature{rows=[6, 2, 9], cols=[7, 0, 9], sgn=[true, true, true]}
+Feature{rows=[1, 7, 1], cols=[2, 4, 1], sgn=[false, false, true]}
+Feature{rows=[7, 4, 9], cols=[9, 9, 9], sgn=[true, true, false]}
+Feature{rows=[9, 8, 2], cols=[7, 3, 9], sgn=[false, true, true]}
+Feature{rows=[0, 7, 6], cols=[9, 0, 1], sgn=[false, true, true]}
+-----------------------------------------------
+Final Weight set:
+weight=[-6.0, 5.0, -21.0, 13.0, 1.0, 2.0, 7.0, 0.0, 3.0, -5.0, -17.0, -9.0, 4.0, -5.0, 27.0, 29.0, -13.0, 22.0, 24.0, -4.0, 0.0, 0.0, -24.0, 6.0, -5.0, -16.0, -11.0, 18.0, 18.0, 1.0, 20.0, 7.0, 13.0, 5.0, 0.0, -42.0, -33.0, -18.0, 26.0, 12.0, -31.0, -21.0, 1.0, 3.0, 22.0, -20.0, -12.0, -6.0, -9.0, -27.0, 17.0]

@@ -1,0 +1,15 @@
+------------------------------------
+PART1
+------------------------------------
+Make sure that we are in the src directory and compiled all the java files
+To run part 1 , enter the command with the format below:
+
+java Main part1 Training_FilePath Test_FilePath
+
+Example:
+java Main part1 /Users/patrickzhang/Desktop/COMP307/COMP307A1/ass1_data/part1/wine-training /Users/patrickzhang/Desktop/COMP307/COMP307A1/ass1_data/part1/wine-test
+
+Then the system will require a k value,  like :"Enter the 'K' Value: "
+
+Now all we should do is to enter the K value
+Then the system will run and print the result
